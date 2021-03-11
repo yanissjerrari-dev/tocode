@@ -1,0 +1,29 @@
+#logo {
+    border-radius: 10px;
+    visibility: visible;
+}
+
+#bell {
+    visibility: visible;
+}
+
+img {
+    visibility: hidden;
+}
+
+.input_container{
+    position: relative; 
+    }
+    
+    .input_icon{
+    position: absolute; 
+    top: 2px;
+    color: gray; 
+    left: 9px;
+    font-size: 21px; 
+    width: 50px;
+    }
+    
+    input[type="search"]{
+        padding-left:40px; 
+    }
